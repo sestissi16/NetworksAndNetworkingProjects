@@ -1,0 +1,3 @@
+[submodule "message_app"]
+	path = message_app
+	url = https://github.com/phqchau/message_app
